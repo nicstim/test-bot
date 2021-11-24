@@ -11,7 +11,7 @@ try:
         config = json.load(handle)
 except IOError:
     config = {
-        'token': "1381042876:AAEJcba_p5i-Wzos15Q7kJz04sSiFh4MZ_Q",
+        'token': None,
     }
 
 # Константы
