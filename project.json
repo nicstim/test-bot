@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "test",
+      "script": "bot.py",
+      "exec_mode": "fork",
+      "exec_interpreter": "env/bin/python"
+    }
+
+  ]
+}
